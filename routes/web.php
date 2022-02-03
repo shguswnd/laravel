@@ -88,3 +88,6 @@ Route::delete('/tasks/{task}', [TaskController::class,'destrot']);
 Auth::routes();
 
 Route::get('/home', [HomeController::class,'index']);
+
+///
+???
